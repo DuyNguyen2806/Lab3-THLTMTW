@@ -1,0 +1,11 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\bin\Debug\Lab3-03.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\bin\Debug\Lab3-03.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\bin\Debug\Lab3-03.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\obj\Debug\Lab3-03.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\obj\Debug\Lab3_03.frmQLSV.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\obj\Debug\Lab3_03.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\obj\Debug\Lab3-03.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\obj\Debug\Lab3-03.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\obj\Debug\Lab3-03.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\obj\Debug\Lab3-03.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3-03\obj\Debug\Lab3_03.frmThemSV.resources

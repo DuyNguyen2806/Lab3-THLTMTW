@@ -1,0 +1,15 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\bin\Debug\Lab3.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\bin\Debug\Lab3.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\bin\Debug\Interop.WMPLib.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Interop.WMPLib.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Lab3.csproj.ResolveComReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Lab3.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Lab3\obj\Debug\Lab3.pdb
